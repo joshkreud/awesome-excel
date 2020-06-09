@@ -1,18 +1,18 @@
 # Awesome Excel
 
-## Excel
+## Excel :toolbox:
 
 - [Official Excel support](https://support.office.com/en-us/excel): Every formula and function is explained
 - [Official getting started guide](https://support.office.com/en-us/article/excel-for-windows-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?ui=en-US&rs=en-US&ad=US)
 - [thespreadsheetguru.com](https://www.thespreadsheetguru.com/): Very good site. Also for VBA
 - [Excel-Easy.com](https://www.excel-easy.com/)
 
-### Lookups
+### Lookups :magnet:
 
 - [INDEX / MATCH](https://exceljet.net/index-and-match): One lookup to rule them all.
 - [INDEX / MATCH Examples](https://www.excel-easy.com/examples/index-match.html): Seriously if I see one more VLookup i'm going to hit someone.
 
-### Tables
+### Tables :nut_and_bolt:
 
 Should be the Preferred way to store data, if the count of entries is variable.
 Also they integrate perfectly with PivotTables.
@@ -20,13 +20,13 @@ Also they integrate perfectly with PivotTables.
 - [Official Microsoft Support](https://support.office.com/en-us/article/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c)
 - [Exceljet.net Tables](https://exceljet.net/excel-tables)
 
-## Pivot Tables
+## Pivot Tables :chart_with_downwards_trend: :chart_with_upwards_trend: :bar_chart:
 
 Management friendly interactive tables and charts
 
 - [Excel-easy.com Pivot Tables](https://www.excel-easy.com/data-analysis/pivot-tables.html)
 
-## VBA
+## VBA :hammer_and_pick: :fire_extinguisher:
 
 Automate All the things.
 
@@ -34,13 +34,13 @@ Automate All the things.
 - [docs.microsoft.com](https://docs.microsoft.com/en-us/office/vba/api/overview/excel): Official Object model reference for VBA. Always nice to have
 - [RubberduckVBA](https://github.com/rubberduck-vba/Rubberduck): Super Handy VBE Addin that brings some Modern IDE Features to the VBE
 
-## Tables in VBA
+## Tables + VBA = :sparkling_heart:
 
 That makes shit interesting
 
 - [thespreadsheetguru.com](https://www.thespreadsheetguru.com/blog/2014/6/20/the-vba-guide-to-listobject-excel-tables): The VBA Listobject
 
-## Power Query
+## Power Query :gear:
 
 Was an add-in until Excel 2010, is now in the Data Tab.
 Query and Transform data from different sources. (Also used in PowerBI)
@@ -52,7 +52,7 @@ Also useful to transform data into a Pivot Table friendly format without changin
 - [support.office.com](https://support.office.com/en-us/article/power-query-overview-and-learning-ed614c81-4b00-4291-bd3a-55d80767f81d): Official Documentation
 - [docs.microsoft.com](https://docs.microsoft.com/en-us/powerquery-m/): PowerQuery M Language Reference
 
-## Further references
+## Further references :telescope:
 
 Interesting to Watch or Read
 
