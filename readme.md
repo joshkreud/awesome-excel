@@ -11,6 +11,7 @@
 
 - [INDEX / MATCH](https://exceljet.net/index-and-match): One lookup to rule them all.
 - [INDEX / MATCH Examples](https://www.excel-easy.com/examples/index-match.html): Seriously if I see one more VLookup i'm going to hit someone.
+- [XLOOKUP](https://support.microsoft.com/en-us/office/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929): Only works on newer Excel versions but can be used for quick lookps. Separare Index/Match is still superior in speed when pulling multiple values from the same row.
 
 ### Tables :nut_and_bolt:
 
