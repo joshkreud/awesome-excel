@@ -32,7 +32,7 @@ Management friendly interactive tables and charts
 
 Automate All the things.
 
-- [cpearson.com](http://www.cpearson.com/excel/ExcelPages.htm): is the most complete VBA Source i know. Sadly the Author passed away in 2018. Rest in peace Chip!
+- [cpearson.com](http://www.cpearson.com/excel/ExcelPages.htm): is the most complete VBA Source I know. Sadly the Author passed away in 2018. Rest in Peace Chip!
 - [docs.microsoft.com](https://docs.microsoft.com/en-us/office/vba/api/overview/excel): Official Object model reference for VBA. Always nice to have
 - [rubberduck-vba/Rubberduck](https://github.com/rubberduck-vba/Rubberduck): Super Handy VBE Addin that brings some Modern IDE Features to the VBE
 
